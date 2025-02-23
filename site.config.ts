@@ -14,7 +14,7 @@ export default siteConfig({
   author: 'Cloud Wearm',
 
   // open graph metadata (optional)
-  description: 'Example Next.js Notion Starter Kit Site',
+  description: 'EatWellTherapy Site',
 
   // social usernames (optional)
   twitter: null,
