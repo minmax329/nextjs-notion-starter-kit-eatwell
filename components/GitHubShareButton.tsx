@@ -4,7 +4,8 @@ export function GitHubShareButton() {
   return (
     <a
       href='https://github.com/transitive-bullshit/nextjs-notion-starter-kit'
-      target='_blank'
+      target='_blank' 
+      style={{display:'none'}}
       rel='noopener noreferrer'
       className={styles.githubCorner}
       aria-label='View source on GitHub'
