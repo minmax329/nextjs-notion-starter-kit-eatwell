@@ -83,11 +83,9 @@ export function PageHead({
 
       {url && (
         <>
-          <!---
           <link rel='canonical' href={url} />
           <meta property='og:url' content={url} />
           <meta property='twitter:url' content={url} />
-            --->
         </>
       )}
 
