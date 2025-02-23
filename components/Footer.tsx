@@ -53,7 +53,7 @@ export function FooterImpl() {
         )}
       </div>
 
-      <div className={styles.social}>
+      <div className={styles.social} style={{display:'none'}}>
         {config.twitter && (
           <a
             className={styles.twitter}
